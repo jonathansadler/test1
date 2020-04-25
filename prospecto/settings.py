@@ -25,11 +25,11 @@ SECRET_KEY = 'kd1xgb$)fdv(wy^y3kod9#mjla2k%s-t!$(g697ggs8ayko3nc'
 # SECURITY WARNING: don't run with debug turned on in production!
 #DEBUG = True
 
-DEBUG = False
+DEBUG = True
 
 #ALLOWED_HOSTS = ['3.13.34.21','http://jonathansadler.net','https://jonathansadler.net']
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*','3.13.34.21']
 
 
 # Application definition
